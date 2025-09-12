@@ -1114,7 +1114,7 @@ header .seperator-skew svg .fill-white {
 
 /* PUBLICATIONS */
 .publications {
-  background: #ffffff;   /* white background */
+  background: #ffffff !important;   /* white background */
   padding: 3rem 0;
 }
 .publications h2 {
@@ -1145,7 +1145,7 @@ header .seperator-skew svg .fill-white {
 
 /* AWARDS */
 .awards {
-  background: #ffffff;   /* white background */
+  background: #ffffff  !important; /* white background */
   padding: 3rem 0;
 }
 .awards h2 {
