@@ -1111,3 +1111,62 @@ header .seperator-skew svg .fill-white {
     margin: 0 1rem;
   }
 }/*# sourceMappingURL=main.css.map */
+
+/* PUBLICATIONS */
+.publications {
+  background: #ffffff;
+  padding: 3rem 0;
+}
+.publications h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+.publications .pub-card {
+  background: #f9f9f9;
+  padding: 2rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  margin: 1rem auto;
+  max-width: 900px;
+  box-shadow: 0 0.15rem 0.6rem rgba(43, 52, 56, 0.15);
+}
+.publications .pub-card h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+.publications .pub-card p {
+  margin: 0.25rem 0;
+  color: #333;
+  font-size: 0.95rem;
+}
+
+/* AWARDS */
+.awards {
+  background: #ffffff;
+  padding: 3rem 0;
+}
+.awards h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+.awards .award-card {
+  background: #f9f9f9;
+  padding: 1.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  margin: 1rem auto;
+  max-width: 800px;
+  box-shadow: 0 0.15rem 0.6rem rgba(43, 52, 56, 0.15);
+}
+.awards .award-card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: #007bff;
+}
+.awards .award-card p {
+  font-size: 0.95rem;
+  color: #333;
+  margin: 0;
+}
